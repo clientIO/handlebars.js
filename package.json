@@ -1,4 +1,5 @@
 {
+  "browser": "dist/handlebars.js",
   "name": "handlebars",
   "barename": "handlebars",
   "version": "5.0.0-alpha.1",
