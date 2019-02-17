@@ -65,6 +65,7 @@
     "handlebars": "bin/handlebars"
   },
   "scripts": {
+    "build": "grunt build",
     "test": "grunt"
   },
   "jspm": {
